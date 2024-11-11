@@ -1,2 +1,2 @@
-﻿Console.WriteLine($"Double Maximum Value: {double.MaxValue}");
-Console.WriteLine($"Double Minimum Value: {double.MinValue}");
+﻿Console.WriteLine("Double Maximum Value: {0}", double.MaxValue);
+Console.WriteLine("Double Minimum Value: {0}", double.MinValue);
