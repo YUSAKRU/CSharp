@@ -1,0 +1,15 @@
+/Users/ruveys/Documents/CSharp/program15/bin/Debug/net8.0/program15
+/Users/ruveys/Documents/CSharp/program15/bin/Debug/net8.0/program15.deps.json
+/Users/ruveys/Documents/CSharp/program15/bin/Debug/net8.0/program15.runtimeconfig.json
+/Users/ruveys/Documents/CSharp/program15/bin/Debug/net8.0/program15.dll
+/Users/ruveys/Documents/CSharp/program15/bin/Debug/net8.0/program15.pdb
+/Users/ruveys/Documents/CSharp/program15/obj/Debug/net8.0/program15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruveys/Documents/CSharp/program15/obj/Debug/net8.0/program15.AssemblyInfoInputs.cache
+/Users/ruveys/Documents/CSharp/program15/obj/Debug/net8.0/program15.AssemblyInfo.cs
+/Users/ruveys/Documents/CSharp/program15/obj/Debug/net8.0/program15.csproj.CoreCompileInputs.cache
+/Users/ruveys/Documents/CSharp/program15/obj/Debug/net8.0/program15.sourcelink.json
+/Users/ruveys/Documents/CSharp/program15/obj/Debug/net8.0/program15.dll
+/Users/ruveys/Documents/CSharp/program15/obj/Debug/net8.0/refint/program15.dll
+/Users/ruveys/Documents/CSharp/program15/obj/Debug/net8.0/program15.pdb
+/Users/ruveys/Documents/CSharp/program15/obj/Debug/net8.0/program15.genruntimeconfig.cache
+/Users/ruveys/Documents/CSharp/program15/obj/Debug/net8.0/ref/program15.dll

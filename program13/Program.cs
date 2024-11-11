@@ -1,18 +1,18 @@
-﻿int rows = 5; // Number of rows for the triangle
+﻿int rows = 5; // Üçgen için satır sayısı
 
 for (int i = 1; i <= rows; i++)
 {
-    // Print spaces
+    // Boşlukları yazdır
     for (int space = 1; space <= rows - i; space++)
     {
         Console.Write(" ");
     }
 
-    // Print stars
+    // Yıldızları yazdır
     for (int j = 1; j <= 2 * i - 1; j++)
     {
         Console.Write("*");
     }
 
-    Console.WriteLine(); // Move to next line
+    Console.WriteLine(); // Bir sonraki satıra geç
 }

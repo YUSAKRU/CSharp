@@ -1,0 +1,15 @@
+/Users/ruveys/Documents/CSharp/program17/obj/Debug/net8.0/program17.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruveys/Documents/CSharp/program17/obj/Debug/net8.0/program17.AssemblyInfoInputs.cache
+/Users/ruveys/Documents/CSharp/program17/obj/Debug/net8.0/program17.AssemblyInfo.cs
+/Users/ruveys/Documents/CSharp/program17/obj/Debug/net8.0/program17.csproj.CoreCompileInputs.cache
+/Users/ruveys/Documents/CSharp/program17/obj/Debug/net8.0/program17.sourcelink.json
+/Users/ruveys/Documents/CSharp/program17/bin/Debug/net8.0/program17
+/Users/ruveys/Documents/CSharp/program17/bin/Debug/net8.0/program17.deps.json
+/Users/ruveys/Documents/CSharp/program17/bin/Debug/net8.0/program17.runtimeconfig.json
+/Users/ruveys/Documents/CSharp/program17/bin/Debug/net8.0/program17.dll
+/Users/ruveys/Documents/CSharp/program17/bin/Debug/net8.0/program17.pdb
+/Users/ruveys/Documents/CSharp/program17/obj/Debug/net8.0/program17.dll
+/Users/ruveys/Documents/CSharp/program17/obj/Debug/net8.0/refint/program17.dll
+/Users/ruveys/Documents/CSharp/program17/obj/Debug/net8.0/program17.pdb
+/Users/ruveys/Documents/CSharp/program17/obj/Debug/net8.0/program17.genruntimeconfig.cache
+/Users/ruveys/Documents/CSharp/program17/obj/Debug/net8.0/ref/program17.dll

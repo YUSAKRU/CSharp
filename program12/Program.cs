@@ -13,4 +13,4 @@ for (int i = 1; i <= number; i++)
     factorial *= i;
 }
 
-Console.WriteLine($"{number}! = {factorial}");
+Console.WriteLine("{0}! = {1:N0}", number, factorial); // :N0 ifadesi ile sayıyı binlik gruplara ayırarak yazdırıyoruz

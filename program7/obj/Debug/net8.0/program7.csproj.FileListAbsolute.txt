@@ -12,3 +12,4 @@
 /Users/ruveys/Documents/CSharp/program7/obj/Debug/net8.0/program7.pdb
 /Users/ruveys/Documents/CSharp/program7/obj/Debug/net8.0/program7.genruntimeconfig.cache
 /Users/ruveys/Documents/CSharp/program7/obj/Debug/net8.0/ref/program7.dll
+/Users/ruveys/Documents/CSharp/program7/obj/Debug/net8.0/program7.sourcelink.json
