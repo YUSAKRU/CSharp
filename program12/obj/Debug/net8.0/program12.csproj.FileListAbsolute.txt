@@ -1,0 +1,14 @@
+/Users/ruveys/Documents/CSharp/program12/bin/Debug/net8.0/program12
+/Users/ruveys/Documents/CSharp/program12/bin/Debug/net8.0/program12.deps.json
+/Users/ruveys/Documents/CSharp/program12/bin/Debug/net8.0/program12.runtimeconfig.json
+/Users/ruveys/Documents/CSharp/program12/bin/Debug/net8.0/program12.dll
+/Users/ruveys/Documents/CSharp/program12/bin/Debug/net8.0/program12.pdb
+/Users/ruveys/Documents/CSharp/program12/obj/Debug/net8.0/program12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruveys/Documents/CSharp/program12/obj/Debug/net8.0/program12.AssemblyInfoInputs.cache
+/Users/ruveys/Documents/CSharp/program12/obj/Debug/net8.0/program12.AssemblyInfo.cs
+/Users/ruveys/Documents/CSharp/program12/obj/Debug/net8.0/program12.csproj.CoreCompileInputs.cache
+/Users/ruveys/Documents/CSharp/program12/obj/Debug/net8.0/program12.dll
+/Users/ruveys/Documents/CSharp/program12/obj/Debug/net8.0/refint/program12.dll
+/Users/ruveys/Documents/CSharp/program12/obj/Debug/net8.0/program12.pdb
+/Users/ruveys/Documents/CSharp/program12/obj/Debug/net8.0/program12.genruntimeconfig.cache
+/Users/ruveys/Documents/CSharp/program12/obj/Debug/net8.0/ref/program12.dll

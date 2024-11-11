@@ -1,0 +1,14 @@
+/Users/ruveys/Documents/CSharp/DegiskenTanimlama/bin/Debug/net8.0/DegiskenTanimlama
+/Users/ruveys/Documents/CSharp/DegiskenTanimlama/bin/Debug/net8.0/DegiskenTanimlama.deps.json
+/Users/ruveys/Documents/CSharp/DegiskenTanimlama/bin/Debug/net8.0/DegiskenTanimlama.runtimeconfig.json
+/Users/ruveys/Documents/CSharp/DegiskenTanimlama/bin/Debug/net8.0/DegiskenTanimlama.dll
+/Users/ruveys/Documents/CSharp/DegiskenTanimlama/bin/Debug/net8.0/DegiskenTanimlama.pdb
+/Users/ruveys/Documents/CSharp/DegiskenTanimlama/obj/Debug/net8.0/DegiskenTanimlama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruveys/Documents/CSharp/DegiskenTanimlama/obj/Debug/net8.0/DegiskenTanimlama.AssemblyInfoInputs.cache
+/Users/ruveys/Documents/CSharp/DegiskenTanimlama/obj/Debug/net8.0/DegiskenTanimlama.AssemblyInfo.cs
+/Users/ruveys/Documents/CSharp/DegiskenTanimlama/obj/Debug/net8.0/DegiskenTanimlama.csproj.CoreCompileInputs.cache
+/Users/ruveys/Documents/CSharp/DegiskenTanimlama/obj/Debug/net8.0/DegiskenTanimlama.dll
+/Users/ruveys/Documents/CSharp/DegiskenTanimlama/obj/Debug/net8.0/refint/DegiskenTanimlama.dll
+/Users/ruveys/Documents/CSharp/DegiskenTanimlama/obj/Debug/net8.0/DegiskenTanimlama.pdb
+/Users/ruveys/Documents/CSharp/DegiskenTanimlama/obj/Debug/net8.0/DegiskenTanimlama.genruntimeconfig.cache
+/Users/ruveys/Documents/CSharp/DegiskenTanimlama/obj/Debug/net8.0/ref/DegiskenTanimlama.dll

@@ -1,0 +1,14 @@
+/Users/ruveys/Documents/CSharp/program4/bin/Debug/net8.0/program4
+/Users/ruveys/Documents/CSharp/program4/bin/Debug/net8.0/program4.deps.json
+/Users/ruveys/Documents/CSharp/program4/bin/Debug/net8.0/program4.runtimeconfig.json
+/Users/ruveys/Documents/CSharp/program4/bin/Debug/net8.0/program4.dll
+/Users/ruveys/Documents/CSharp/program4/bin/Debug/net8.0/program4.pdb
+/Users/ruveys/Documents/CSharp/program4/obj/Debug/net8.0/program4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruveys/Documents/CSharp/program4/obj/Debug/net8.0/program4.AssemblyInfoInputs.cache
+/Users/ruveys/Documents/CSharp/program4/obj/Debug/net8.0/program4.AssemblyInfo.cs
+/Users/ruveys/Documents/CSharp/program4/obj/Debug/net8.0/program4.csproj.CoreCompileInputs.cache
+/Users/ruveys/Documents/CSharp/program4/obj/Debug/net8.0/program4.dll
+/Users/ruveys/Documents/CSharp/program4/obj/Debug/net8.0/refint/program4.dll
+/Users/ruveys/Documents/CSharp/program4/obj/Debug/net8.0/program4.pdb
+/Users/ruveys/Documents/CSharp/program4/obj/Debug/net8.0/program4.genruntimeconfig.cache
+/Users/ruveys/Documents/CSharp/program4/obj/Debug/net8.0/ref/program4.dll
